@@ -91,3 +91,7 @@ with tab2:
 
 if st.button('새로고침'):
     st.rerun()
+
+
+# 이미지가 하위 폴더에 있는 경우 예시
+st.image("물구나무고양이.jpg")
